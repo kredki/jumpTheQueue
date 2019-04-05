@@ -54,3 +54,14 @@ export interface Login {
     user: string;
     password: string;
 }
+
+export interface Visitor {
+    name: string;
+    email: string;
+    phone: string;
+}
+
+export interface Code {
+    code: string;
+    dateAndTime: number;
+}

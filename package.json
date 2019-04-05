@@ -15,7 +15,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@oasp/oasp4fn": "^0.6.1"
+    "@oasp/oasp4fn": "^0.6.1",
+    "loadash": "^1.0.0"
   },
   "devDependencies": {
     "@types/body-parser": "^1.16.3",
